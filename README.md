@@ -3,9 +3,7 @@
 
 
 
-
-
-<h1 align="center"> CPMAD:Complementary Prototype Mapping for Efficient Multimodal Anomaly Detection </h1>
+ 
 
 CPMAD is a multimodal anomaly detection framework that learns shared consensus prototypes and modality-specific supplementary prototypes for RGB-3D/Depth anomaly analysis.
 
