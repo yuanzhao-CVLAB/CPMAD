@@ -28,6 +28,7 @@ Use `train_singleclass.py` in training mode. You can select the classes to be tr
 
 > **Important**: Please set your dataset root path explicitly via `--root`.
 
+> **Note**: Before training, download the corresponding backbone weights (e.g., `vit_base_patch8_224.dino`) and set the `--backbone` argument to match the checkpoint you downloaded.
 ```bash
 python train_singleclass.py --mode train --root /your/dataset/root
 ```
